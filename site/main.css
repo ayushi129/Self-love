@@ -1,0 +1,96 @@
+*,html,body{
+    margin:0;
+    padding:0;
+}
+body
+{
+    height:4500px;
+}
+header
+{
+    line-height: 30px;
+    position: scroll;
+    z-index: 1;
+    width:100%;
+}
+.first
+{
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/08/Black-Wallpaper-HD-1920x1080-Free-Download.jpg");
+    padding-left: 0;
+    padding: 0;
+    transition: all 1s ease-in-out;
+}
+ul
+{
+    list-style: none;
+}
+ul li
+{
+    display: inline;
+}
+header nav
+{
+    float: initial;
+    margin-left: 0;
+    margin-right: 0;
+}
+.logo img
+{
+    width: 30%;
+    height:auto;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+header nav ul li a
+{
+    padding: 30px;
+    color: whitesmoke;
+    transition: all 0.5s ease-in-out;
+}
+header nav ul li a:hover
+{
+    text-decoration: none;
+    color:orangered;
+}
+.xyz{
+    text-align: center;
+}
+.selflove h1{
+    margin-top: 4.5%;
+}
+.selfove ,h3,h1,h2
+{
+    margin-left: 20%;
+    margin-right: 20%;
+    font-style: italic;
+    font-size: 30px;
+}
+.selflove p
+{
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 25px;
+}
+.selflove p img{
+    background-size: 10%;
+    width: 60%;
+    height: auto;
+}
+.aboutme h2, .contact h2{
+    margin-left: 20%;
+    margin-right: 20%;
+    font-style: italic;
+    font-size: 30px;
+}
+.aboutme p, .contact p{
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 25px;
+    color: rgba(32, 30, 30, 0.856);
+}
+.aboutme p img
+{
+    background-size: 10%;
+    width: 30%;
+    height: auto;
+}
